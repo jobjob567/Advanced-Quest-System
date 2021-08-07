@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "QuestSystem",
-			"Path": "D:\\GitHub\\Advanced-Quest-System\\QuestSystem\\Source\\QuestSystem.Target.cs",
+			"Path": "C:\\Users\\Jobu-san\\Desktop\\GitHub\\Advanced-Quest-System\\QuestSystem\\Source\\QuestSystem.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "QuestSystemEditor",
-			"Path": "D:\\GitHub\\Advanced-Quest-System\\QuestSystem\\Source\\QuestSystemEditor.Target.cs",
+			"Path": "C:\\Users\\Jobu-san\\Desktop\\GitHub\\Advanced-Quest-System\\QuestSystem\\Source\\QuestSystemEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]
